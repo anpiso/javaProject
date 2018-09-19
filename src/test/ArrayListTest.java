@@ -8,7 +8,7 @@ public class ArrayListTest {
 		System.out.println("lab5_1: 용동중");
 
 		Scanner input = new Scanner(System.in);
-
+		
 		// (1) Integer를 타입 매개변수로 하여 ArrayList 객체를 생성(list라는 이름의 변수에 저장)
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		// 완성하세요.
