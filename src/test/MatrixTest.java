@@ -58,9 +58,7 @@ class MyMatrixService {
 					z[i][j] += x[i][k] * y[k][j];
 				}
 			}
-		}
-
-		
+		}		
 		return z;
 	}
 	// (2) 정적 메소드 print를 작성하시오.
